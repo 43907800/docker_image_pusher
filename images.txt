@@ -2,3 +2,8 @@ nginx
 xhofe/alist:latest
 #支持指定架构
 xiaoyaliu/alist
+# clash
+dreamacro/clash
+haishanh/yacd
+# ddns
+jeessy/ddns-go
